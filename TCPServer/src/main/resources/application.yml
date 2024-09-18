@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: TCPServer
+
+server:
+  port: 9090 # SpringBoot项目端口
+
+
+tcp:
+  server:
+    port: 9095 # TCP服务器端口
+
+

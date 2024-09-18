@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: TCPClient
+
+
+server:
+  port: 8080 # SpringBoot项目端口
+
+tcp:
+  server:
+    port: 9095 # 连接的TCP服务器端口
+    host: 127.0.0.1 # 连接的服务器域名
+
+
